@@ -19,8 +19,8 @@ def is_connected():
 
 def MailSender(filename, time):
     try:
-        fromaddr = "7781varun@gmail.com"
-        toaddr = "palphadevarun@gmail.com"
+        fromaddr = "// mail of sender"  
+        toaddr = "//mail of reciever"   
 
         msg = MIMEMultipart()
 
