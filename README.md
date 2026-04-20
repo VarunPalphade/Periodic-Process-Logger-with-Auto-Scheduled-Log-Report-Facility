@@ -29,8 +29,7 @@ This Python project logs all running system processes at regular intervals and a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/process-logger-mailer.git
-cd process-logger-mailer
+git clone https://github.com/your-username/Periodic-Process-Logger-with-Auto-Scheduled-Log-Report-Facility.git
 ```
 
 ### 2. Install dependencies
